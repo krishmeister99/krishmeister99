@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishmeister99 (Krishnan Ganesh)
 - 👨🏻‍🏫 I am a Condensed Matter Theory PhD student.
-- 🗣 My preferred language is Python 
+- 🗣 Python 
 
 
 <!---
